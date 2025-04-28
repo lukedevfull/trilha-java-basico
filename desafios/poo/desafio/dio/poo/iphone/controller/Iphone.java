@@ -5,5 +5,11 @@ public class Iphone {
         iphone.selectMusic();
         iphone.play();
         iphone.pause();
+        iphone.call();
+        iphone.listen();
+        iphone.showPage();
+        iphone.addNewTab();
+        iphone.refreshPage();
+
     }
 }
